@@ -1,0 +1,19 @@
+DocuFix Website
+===============
+
+This is the GitHub Pages hosted repository for the public website of document
+and communications services provider
+[DocuFix](http://www.docufix.co.uk "Docufix - Document and Communications Services").
+
+## Acknowledgements
+
+The site has been built using the static site generator
+[Grain](http://github.com/sysgears/grain "Grain Framework") and is based upon its
+[New-Age](http://github.com/sysgears.com/grain-theme-new-age "New Age Grain theme")
+bootstrap theme.
+
+
+## Notes
+
+The [CNAME](content/CNAME) ensures that the GitHub Pages custom domain setting
+is not overridden during deployment.
