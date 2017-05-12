@@ -273,27 +273,27 @@ section#introduction .badges .badge-link img {
 }
 
 /**** Services Section ****/
-section.features .section-heading {
+section#services .section-heading {
   margin-bottom: 3em;
 }
-section.features .section-heading h2 {
+section#services .section-heading h2 {
   margin-top: 0;
 }
-section.features .section-heading p {
+section#services .section-heading p {
   margin-bottom: 0;
 }
-section.features .feature-item {
+section#services .service {
   max-width: 300px;
   margin: 0 auto;
 }
-section.features .feature-item {
+section#services .service {
   text-align: center;
   margin-bottom: 100px;
 }
-section.features .feature-item h3 {
+section#services .service h3 {
   font-size: 30px;
 }
-section.features .feature-item i {
+section#services .service i {
   font-size: 80px;
   background: -webkit-linear-gradient(to left, #74c078, #706e91);
   background: linear-gradient(to left, #74c078, #706e91);
